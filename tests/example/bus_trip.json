@@ -1,0 +1,16 @@
+{
+    "routeId": "60d5ec49f1d2c2a1d4e8b459",
+    "date": "2025-01-15T00:00:00Z",
+    "frequency": "daily",
+    "timing": "20:00",
+    "fare": 1000,
+    "stops": [
+        {"stop": "Lanka", "time": "20:00"},
+        {"stop": "Prayagraj", "time": "23:00"},
+        {"stop": "Fatehpur", "time": "00:20"},
+        {"stop": "Kanpur", "time": "02:00"}
+    ],
+    "createdBy": "test@gmail.com",
+    "createdAt": "2023-10-01T12:00:00Z",
+    "updatedAt": "2023-10-01T12:00:00Z"
+}

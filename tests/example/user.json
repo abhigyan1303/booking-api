@@ -1,0 +1,12 @@
+
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "userType": "admin",
+    "userGroup": "group1",
+    "username": "johndoe",
+    "password": "password123",
+    "mobile": "1234567890",
+    "gender": "m"
+}
