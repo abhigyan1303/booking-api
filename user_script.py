@@ -28,6 +28,7 @@ def create_superadmin():
         "lastName": SUPERADMIN_LASTNAME,
         "email": SUPERADMIN_EMAIL,
         "userType": ["superAdmin"],
+        "userGroup": ["default"],
         "username": SUPERADMIN_USERNAME,
         "password": encrypted_password,
         "mobile": SUPERADMIN_MOBILE,
